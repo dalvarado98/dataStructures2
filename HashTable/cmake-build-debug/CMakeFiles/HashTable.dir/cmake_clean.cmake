@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/HashTable.dir/main.cpp.o"
+  "CMakeFiles/HashTable.dir/Values.cpp.o"
+  "CMakeFiles/HashTable.dir/HashTable.cpp.o"
   "HashTable.pdb"
   "HashTable.exe"
   "libHashTable.dll.a"

@@ -123,6 +123,60 @@ HashTable/fast:
 	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/build
 .PHONY : HashTable/fast
 
+HashTable.o: HashTable.cpp.o
+
+.PHONY : HashTable.o
+
+# target to build an object file
+HashTable.cpp.o:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/HashTable.cpp.o
+.PHONY : HashTable.cpp.o
+
+HashTable.i: HashTable.cpp.i
+
+.PHONY : HashTable.i
+
+# target to preprocess a source file
+HashTable.cpp.i:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/HashTable.cpp.i
+.PHONY : HashTable.cpp.i
+
+HashTable.s: HashTable.cpp.s
+
+.PHONY : HashTable.s
+
+# target to generate assembly for a file
+HashTable.cpp.s:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/HashTable.cpp.s
+.PHONY : HashTable.cpp.s
+
+Values.o: Values.cpp.o
+
+.PHONY : Values.o
+
+# target to build an object file
+Values.cpp.o:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Values.cpp.o
+.PHONY : Values.cpp.o
+
+Values.i: Values.cpp.i
+
+.PHONY : Values.i
+
+# target to preprocess a source file
+Values.cpp.i:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Values.cpp.i
+.PHONY : Values.cpp.i
+
+Values.s: Values.cpp.s
+
+.PHONY : Values.s
+
+# target to generate assembly for a file
+Values.cpp.s:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Values.cpp.s
+.PHONY : Values.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +213,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... HashTable"
 	@echo "... edit_cache"
+	@echo "... HashTable.o"
+	@echo "... HashTable.i"
+	@echo "... HashTable.s"
+	@echo "... Values.o"
+	@echo "... Values.i"
+	@echo "... Values.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
