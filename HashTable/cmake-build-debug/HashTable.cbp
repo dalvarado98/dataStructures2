@@ -80,6 +80,36 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTable.cpp">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTable.h">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.cpp">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.h">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.cpp">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.h">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Person.cpp">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Person.h">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Values.cpp">
+			<Option target="HashTable"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Values.h">
+			<Option target="HashTable"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/main.cpp">
 			<Option target="HashTable"/>
 		</Unit>

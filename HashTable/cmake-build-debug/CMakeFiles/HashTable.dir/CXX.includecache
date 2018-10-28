@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTable.h
+Values.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Values.h
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.cpp
+HashTableClose.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.h
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.h
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.cpp
+Manager.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.h
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.h
+HashTable.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTable.h
+HashTableClose.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.h
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Person.h
+string
+-
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Values.h
+iostream
+-
+Person.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Person.h
+
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/main.cpp
+iostream
+-
+Manager.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.h
+stdlib.h
+/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/stdlib.h
+
