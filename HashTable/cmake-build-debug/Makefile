@@ -150,6 +150,87 @@ HashTable.cpp.s:
 	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/HashTable.cpp.s
 .PHONY : HashTable.cpp.s
 
+HashTableClose.o: HashTableClose.cpp.o
+
+.PHONY : HashTableClose.o
+
+# target to build an object file
+HashTableClose.cpp.o:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/HashTableClose.cpp.o
+.PHONY : HashTableClose.cpp.o
+
+HashTableClose.i: HashTableClose.cpp.i
+
+.PHONY : HashTableClose.i
+
+# target to preprocess a source file
+HashTableClose.cpp.i:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/HashTableClose.cpp.i
+.PHONY : HashTableClose.cpp.i
+
+HashTableClose.s: HashTableClose.cpp.s
+
+.PHONY : HashTableClose.s
+
+# target to generate assembly for a file
+HashTableClose.cpp.s:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/HashTableClose.cpp.s
+.PHONY : HashTableClose.cpp.s
+
+Manager.o: Manager.cpp.o
+
+.PHONY : Manager.o
+
+# target to build an object file
+Manager.cpp.o:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Manager.cpp.o
+.PHONY : Manager.cpp.o
+
+Manager.i: Manager.cpp.i
+
+.PHONY : Manager.i
+
+# target to preprocess a source file
+Manager.cpp.i:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Manager.cpp.i
+.PHONY : Manager.cpp.i
+
+Manager.s: Manager.cpp.s
+
+.PHONY : Manager.s
+
+# target to generate assembly for a file
+Manager.cpp.s:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Manager.cpp.s
+.PHONY : Manager.cpp.s
+
+Person.o: Person.cpp.o
+
+.PHONY : Person.o
+
+# target to build an object file
+Person.cpp.o:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Person.cpp.o
+.PHONY : Person.cpp.o
+
+Person.i: Person.cpp.i
+
+.PHONY : Person.i
+
+# target to preprocess a source file
+Person.cpp.i:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Person.cpp.i
+.PHONY : Person.cpp.i
+
+Person.s: Person.cpp.s
+
+.PHONY : Person.s
+
+# target to generate assembly for a file
+Person.cpp.s:
+	$(MAKE) -f CMakeFiles/HashTable.dir/build.make CMakeFiles/HashTable.dir/Person.cpp.s
+.PHONY : Person.cpp.s
+
 Values.o: Values.cpp.o
 
 .PHONY : Values.o
@@ -216,6 +297,15 @@ help:
 	@echo "... HashTable.o"
 	@echo "... HashTable.i"
 	@echo "... HashTable.s"
+	@echo "... HashTableClose.o"
+	@echo "... HashTableClose.i"
+	@echo "... HashTableClose.s"
+	@echo "... Manager.o"
+	@echo "... Manager.i"
+	@echo "... Manager.s"
+	@echo "... Person.o"
+	@echo "... Person.i"
+	@echo "... Person.s"
 	@echo "... Values.o"
 	@echo "... Values.i"
 	@echo "... Values.s"

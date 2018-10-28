@@ -12,8 +12,9 @@ public:
     HashTable();
     ~HashTable();
     void addValor(int indice, Values * ptr);
-    Values * getNumero(int indice, long num);
-    static enum {MAX = 30};
+    Values * getNumero(int indice, int id);
+    Values * getName(int indice, char *name);
+    enum {MAX = 30};
 private:
     Values * m_vector[MAX];
 

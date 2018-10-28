@@ -5,13 +5,13 @@
 #include "Values.h"
 
 Values::Values() {
-    m_num = 0;
-    m_sig = NULL;
+    this->person = NULL;
+    this->m_sig = NULL;
 }
 
-Values::Values(long num, Values *ptr) {
-    m_num = num;
-    m_sig = ptr;
+Values::Values(Person *person, Values *ptr) {
+    this->person = person;
+    this->m_sig = ptr;
 }
 
 Values::~Values() {
@@ -19,16 +19,16 @@ Values::~Values() {
         delete m_sig;
 }
 
-void Values::setNum(long num) {
-    this->m_num = num;
+void Values::setPerson(Person *person) {
+    this->person = person;
 }
 
 void Values::setSig(Values *ptr) {
     m_sig = ptr;
 }
 
-long Values::getNum() {
-    return m_num;
+Person *Values::getPerson() {
+    return this->person;
 }
 
 Values *Values::getSig() {

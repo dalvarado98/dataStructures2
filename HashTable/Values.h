@@ -6,18 +6,19 @@
 #define HASHTABLE_VALUES_H
 
 #include <iostream>
+#include "Person.h"
 
 class Values {
 private:
-    long m_num;
+    Person *person;
     Values * m_sig;
 public:
     Values();
-    Values(long num, Values * ptr = NULL);
+    Values(Person *person, Values * ptr = NULL);
     ~Values();
-    void setNum (long num);
+    void setPerson(Person *person);
     void setSig(Values * ptr);
-    long getNum ();
+    Person *getPerson();
     Values * getSig();
 };
 

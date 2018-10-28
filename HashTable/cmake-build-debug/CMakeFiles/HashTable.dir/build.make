@@ -96,11 +96,53 @@ CMakeFiles/HashTable.dir/HashTable.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HashTable.dir/HashTable.cpp.s"
 	C:/cygwin64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTable.cpp" -o CMakeFiles/HashTable.dir/HashTable.cpp.s
 
+CMakeFiles/HashTable.dir/Person.cpp.o: CMakeFiles/HashTable.dir/flags.make
+CMakeFiles/HashTable.dir/Person.cpp.o: ../Person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/HashTable.dir/Person.cpp.o"
+	C:/cygwin64/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HashTable.dir/Person.cpp.o -c "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Person.cpp"
+
+CMakeFiles/HashTable.dir/Person.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HashTable.dir/Person.cpp.i"
+	C:/cygwin64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Person.cpp" > CMakeFiles/HashTable.dir/Person.cpp.i
+
+CMakeFiles/HashTable.dir/Person.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HashTable.dir/Person.cpp.s"
+	C:/cygwin64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Person.cpp" -o CMakeFiles/HashTable.dir/Person.cpp.s
+
+CMakeFiles/HashTable.dir/Manager.cpp.o: CMakeFiles/HashTable.dir/flags.make
+CMakeFiles/HashTable.dir/Manager.cpp.o: ../Manager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/HashTable.dir/Manager.cpp.o"
+	C:/cygwin64/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HashTable.dir/Manager.cpp.o -c "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.cpp"
+
+CMakeFiles/HashTable.dir/Manager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HashTable.dir/Manager.cpp.i"
+	C:/cygwin64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.cpp" > CMakeFiles/HashTable.dir/Manager.cpp.i
+
+CMakeFiles/HashTable.dir/Manager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HashTable.dir/Manager.cpp.s"
+	C:/cygwin64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/Manager.cpp" -o CMakeFiles/HashTable.dir/Manager.cpp.s
+
+CMakeFiles/HashTable.dir/HashTableClose.cpp.o: CMakeFiles/HashTable.dir/flags.make
+CMakeFiles/HashTable.dir/HashTableClose.cpp.o: ../HashTableClose.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/HashTable.dir/HashTableClose.cpp.o"
+	C:/cygwin64/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HashTable.dir/HashTableClose.cpp.o -c "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.cpp"
+
+CMakeFiles/HashTable.dir/HashTableClose.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HashTable.dir/HashTableClose.cpp.i"
+	C:/cygwin64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.cpp" > CMakeFiles/HashTable.dir/HashTableClose.cpp.i
+
+CMakeFiles/HashTable.dir/HashTableClose.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HashTable.dir/HashTableClose.cpp.s"
+	C:/cygwin64/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/HashTableClose.cpp" -o CMakeFiles/HashTable.dir/HashTableClose.cpp.s
+
 # Object files for target HashTable
 HashTable_OBJECTS = \
 "CMakeFiles/HashTable.dir/main.cpp.o" \
 "CMakeFiles/HashTable.dir/Values.cpp.o" \
-"CMakeFiles/HashTable.dir/HashTable.cpp.o"
+"CMakeFiles/HashTable.dir/HashTable.cpp.o" \
+"CMakeFiles/HashTable.dir/Person.cpp.o" \
+"CMakeFiles/HashTable.dir/Manager.cpp.o" \
+"CMakeFiles/HashTable.dir/HashTableClose.cpp.o"
 
 # External object files for target HashTable
 HashTable_EXTERNAL_OBJECTS =
@@ -108,9 +150,12 @@ HashTable_EXTERNAL_OBJECTS =
 HashTable.exe: CMakeFiles/HashTable.dir/main.cpp.o
 HashTable.exe: CMakeFiles/HashTable.dir/Values.cpp.o
 HashTable.exe: CMakeFiles/HashTable.dir/HashTable.cpp.o
+HashTable.exe: CMakeFiles/HashTable.dir/Person.cpp.o
+HashTable.exe: CMakeFiles/HashTable.dir/Manager.cpp.o
+HashTable.exe: CMakeFiles/HashTable.dir/HashTableClose.cpp.o
 HashTable.exe: CMakeFiles/HashTable.dir/build.make
 HashTable.exe: CMakeFiles/HashTable.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable HashTable.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/cygdrive/c/Users/dania/Desktop/Software/Cenfotec/Estructuras de datos 2/dataStructures2/HashTable/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable HashTable.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/HashTable.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
